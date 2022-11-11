@@ -1,0 +1,7 @@
+enviroment = "dev"
+cidr_block = "10.0.0.0/16"
+avail_zone = "us-east-1a"
+my_ip = "108.94.180.63/32"
+instance_type = "t2.micro"
+public_key_location = "C:/Users/abbey/.ssh/id_rsa.pub"
+private_key = "C:/Users/abbey/.ssh/id_rsa"
