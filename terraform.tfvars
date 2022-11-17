@@ -1,0 +1,6 @@
+enviroment = "dev"
+vpc-cd_block = "10.0.0.0/16"
+avail_zone = "us-east-1a"
+my_ip = "108.94.180.63/32"
+instance_type = "t2.micro"
+public_keypair = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDv64lanl5OdGNo7fhrVhMp/+zz8DD82AdVeSQqWDq/u9jisQZSBbLXbzp0XooFNcnaMoqzXs6lhLBL/ULWL+m2fYYaqXvZASZ3YUwa4BYCbL9Z0NruUbCHfuiiE4a6VRl7XOISmboksjSFEKhL6jeqtqqiL7+dcwTSK9yYZdakSK3vAJ6koe8cRDpYqI4Szu0gmmPemS6/2MWYzxY5XuHgWq6OQY3FQC2jr5eaRjqi9vAA1ZaBUfcO13XlOp+f3n60hqduiFBtl5c+0s7coDb+yBAnZ+AA5NXXELhWiwmecMAz0UoeNjqdfArBjZI53UoOKTVR4F4UXiMj+5FJ2x70e0crjJJ8VRCSdDAaHb/maSfTDD8Qrlzi3KNvjfnFZtPLgqnbZc+RS/fM2IFdsiUN2+/Ap/7Mp0sDlFGyBhCNYceFBsJCYQTTnmBTzufgOjmkrnWNETXNvCmpKRHdCn/dceOIHHOOvmKwNa6dVgdc+S6GVECw7BxJ3ImCNED6saU= abbey@LAPTOP"
